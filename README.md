@@ -1,6 +1,8 @@
 # TestIvi
 Тестовое задание из 3 тестов
+
 Необходимый набор для запуска Java 8, Maven, Firefox
+
 Для запуска склонировать и из директории запустить командой mvn exec:java -Dexec.mainClass="TestIvi"
 
 
